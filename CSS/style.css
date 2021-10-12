@@ -69,7 +69,7 @@ box-sizing: border-box;
     text-align: left;
   }
   .dropdown-content a:hover {
-   /*kasnije dodaj hover*/
+   
   }
   .dropdown:hover .dropdown-content {
     display: block;
